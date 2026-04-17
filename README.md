@@ -20,7 +20,7 @@ src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWdocm1zZXp2a3Q5MzcwaXJub2Vqcn
 - ☁️ Exploring **AWS & Azure**
 - 📘 Learning **CI/CD pipelines & automation**
 - 💬 Ask me about **Linux, Git, DevOps basics**
-- 📫 Reach me at **saifanask2@gmail.com**
+  
 
 I am a **beginner DevOps engineer** who enjoys learning how systems are built, deployed, and scaled.  
 My goal is to become a **skilled DevOps Engineer** by building real-world projects and contributing to open source 🚀
